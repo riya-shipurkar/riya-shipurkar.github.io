@@ -5,7 +5,7 @@ title: Riya Shipurkar
 
 # Hi, I'm Riya 👋
 
-I’m a Cognitive Science graduate passionate about Brain-Computer Interfaces (BCI), EEG data analysis, and turning neuroscience into impactful applications.
+I find brains and computers intriguing!
 
 ## 🔬 Projects
 
