@@ -3,6 +3,12 @@ layout: default
 title: Riya Shipurkar
 ---
 
+<div style="text-align: center;">
+
+
+
+</div>
+
 # Hi, I'm Riya 👋
 
 I find brains and computers intriguing!
