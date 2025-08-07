@@ -4,8 +4,8 @@ title: Riya Shipurkar
 ---
 
 <div style="text-align: center;">
-
-
+  
+![My Photo](IMG_7937.JPG){: style="width:150px; margin: 0 auto; display: block;"}
 
 </div>
 
